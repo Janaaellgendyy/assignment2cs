@@ -1,4 +1,4 @@
-dec = int(input("enter the deciaml number: "))
+dec = int(input("enter the decimal number: "))
 
 if dec >0 and dec<255:
     while dec != 0:
